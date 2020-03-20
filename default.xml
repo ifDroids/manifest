@@ -13,5 +13,7 @@
 	          sync-j="4" />
 	
 	<!-- <project name="ifdroids/APPNAME" path="APPNAME" /> -->
+	<project name="ifdroids/CoordinatesConverter" path="coordinatesconverter"/>
+	<project name="ifdroids/Scripty" path="scripty"/>
 
 </manifest>
