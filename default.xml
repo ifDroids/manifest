@@ -13,9 +13,9 @@
 	          sync-j="4" />
 	
 	<!-- <project name="ifdroids/APPNAME" path="APPNAME" /> -->
-	<project name="ifdroids/CoordinatesConverter" path="coordinatesconverter"/>
-	<project name="ifdroids/Scripty" path="scripty"/>
-	<project name="ifdroids/NavigationDrawerSavedStateLib" path="navigationdrawersavedstatelib"/>
+	<project name="ifdroids/CoordinatesConverter" path="src/coordinatesconverter"/>
+	<project name="ifdroids/Scripty" path="src/scripty"/>
+	<project name="ifdroids/NavigationDrawerSavedStateLib" path="src/navigationdrawersavedstatelib"/>
 	
 	<project name="ifdroids/manifest" path="manifest" />
 	
