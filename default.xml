@@ -15,9 +15,11 @@
 	<!-- <project name="ifdroids/APPNAME" path="APPNAME" /> -->
 	<project name="ifdroids/CoordinatesConverter" path="coordinatesconverter"/>
 	<project name="ifdroids/Scripty" path="scripty"/>
-	<project name="ifdroids/manifest" path="manifest" />
 	<project name="ifdroids/NavigationDrawerSavedStateLib" path="navigationdrawersavedstatelib"/>
 	
+	<project name="ifdroids/manifest" path="manifest" />
+	
+	<project name="ifdroids/notes" path="notes" />
 	<project name="ifdroids/terminal_scripts" path="terminal_scripts">
 		<copyfile src="createremotes.sh" dest="createremotes.sh" />
 	</project>
