@@ -15,5 +15,6 @@
 	<!-- <project name="ifdroids/APPNAME" path="APPNAME" /> -->
 	<project name="ifdroids/CoordinatesConverter" path="coordinatesconverter"/>
 	<project name="ifdroids/Scripty" path="scripty"/>
+	<project name="ifdroids/manifest" path="manifest" />
 
 </manifest>
