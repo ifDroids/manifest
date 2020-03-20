@@ -17,5 +17,10 @@
 	<project name="ifdroids/Scripty" path="scripty"/>
 	<project name="ifdroids/manifest" path="manifest" />
 	<project name="ifdroids/NavigationDrawerSavedStateLib" path="navigationdrawersavedstatelib"/>
+	
+	<project name="ifdroids/scripts" path="scripts">
+		<copyfile src="createremotes.sh" dest="createremotes.sh" />
+	</project>
+		
 
 </manifest>
