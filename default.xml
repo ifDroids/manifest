@@ -14,7 +14,7 @@
 	
 	<!-- <project name="ifdroids/APPNAME" path="APPNAME" /> -->
 	<project name="ifdroids/CoordinatesConverter" path="src/CoordinatesConverter"/>
-	<project name="ifdroids/Scripty" path="src/scripty"/>
+	<project name="ifdroids/Scripty" path="src/Scripty"/>
 	<project name="ifdroids/NavigationDrawerSavedStateLib" path="src/NavigationDrawerSavedStateLib"/>
 	<project name="ifdroids/Gesturer" path="src/Gesturer"/>
 
