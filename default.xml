@@ -17,6 +17,7 @@
 	<project name="ifdroids/Scripty" path="src/Scripty"/>
 	<project name="ifdroids/NavigationDrawerSavedStateLib" path="src/NavigationDrawerSavedStateLib"/>
 	<project name="ifdroids/Gesturer" path="src/Gesturer"/>
+	<project name="ifdroids/GlobalGestureLib" path="src/GlobalGestureLib "/>
 
 	<project name="ifdroids/manifest" path="manifest" />
 	
